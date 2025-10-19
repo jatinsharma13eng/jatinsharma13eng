@@ -1,8 +1,15 @@
-<div style="display: flex;">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
-
-<h1 style="margin: 0; border: none; padding: 0;"><a href="" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Jatin+Sharma" alt="Hey there 🙋‍♂️, I'm Jatin Sharma" /></a></h1>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
+    </td>
+    <td>
+      <a href="#">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=false&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Jatin+Sharma" alt="Hey there 🙋‍♂️, I'm Jatin Sharma" />
+      </a>
+    </td>
+  </tr>
+</table>
 
   <!-- <a href=" /">
     <img
