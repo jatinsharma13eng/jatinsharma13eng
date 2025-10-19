@@ -1,98 +1,84 @@
-<img src="https://i.ibb.co/jZk6Ybtx/header.png" alt="header" style="width: 100%; max-width: 100%;"/>
-<div style="display: flex; align-items: center; justify-content: center; gap: 30px; max-width: 900px; margin: 0 auto;">
-  <div style="flex: 1; max-width: 400px; text-align: left;">
-    🔭 I’m currently working on a **Portfolio project**<br><br>
-    🌱 I’m currently learning **MERN stack**<br><br>
-    👨‍💻 My projects are available **[here](#)**<br><br>
-    📝 I write blogs on **[my blog](#)**<br><br>
-    📫 How to reach me **[contact me](#)**
-  </div>
-  <div style="flex: 1; max-width: 400px; display: flex; justify-content: center;">
-    <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI0NWF6MGE2ZzJxbWplcDczOWZpODhjNXNxNnVpdTg2eTByMWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RgutegYIHk2Nhxj4m5/giphy.gif" alt="Profile GIF" style="width: 70%; max-width: 400px;"/>
-  </div>
+<div style="display: flex;">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px">
+
+<h1 style="margin: 0; border: none; padding: 0;"><a href="" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Jatin+Sharma" alt="Hey there 🙋‍♂️, I'm Jatin Sharma" /></a></h1>
 </div>
 
----
-
-<div  style="display:flex; flex-wrap:wrap; justify-content:left; align-items:center; gap:40px; border-radius:16px;">
-
-<a href="https://instagram.com/jatin._vats" target="_blank">
-  <img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" alt="Instagram" width="45" height="45"/>
-</a>
-
-<a href="https://www.linkedin.com/in/jatin-sharma-92418a291/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" height="30"/>
-</a>
-
-<a href="https://youtube.com/@UCT_ebjdftDmJh23dYrYiThQ" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/youtube.svg" alt="YouTube" width="30" height="30" style="filter: invert(47%) sepia(94%) saturate(7481%) hue-rotate(357deg) brightness(104%) contrast(105%);"/>
-</a>
-
-<a href="mailto:jatinsharma13eng@gmail.com" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="Email" width="30" height="30" style="filter: invert(40%) sepia(98%) saturate(3212%) hue-rotate(341deg) brightness(100%) contrast(97%);"/>
-</a>
-
-</div>
-
-
----
-
-# Things I code with:
-
-<div align="center" style="padding:20px; border-radius:16px; display:flex; flex-wrap:wrap; justify-content:left; gap:25px;">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"  alt="HTML5"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" alt="React"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" width="40" height="40" alt="aws" />
-          
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" width="40" height="40" alt="Redux"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" alt="NodeJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40" alt="Express"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" alt="Java"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="40" height="40" alt="Go"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" width="40" height="40" alt="GraphQL"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" height="40" alt="ThreeJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" height="40" alt="NextJS"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40" height="40" alt="NPM"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40" alt="Firebase"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="40" height="40" alt="Azure"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="Google Cloud"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" alt="GitHub"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="40" height="40" alt="GitLab"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" height="40" alt="Figma"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="40" height="40" alt="Blender"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="40" height="40" alt="Canva"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="40" height="40" alt="Gimp"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="40" height="40" alt="Markdown"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" width="40" height="40" alt="Rust"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="40" height="40" alt="MUI"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dynamodb/dynamodb-original.svg" width="40" height="40" alt="DynamoDB"/>
-
-</div>
-
----
-
-# 📊 Stats Overview
-
-<div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=jatinsharma13eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" width="400" height="100%"/>
-    <img src="https://nirzak-streak-stats.vercel.app/?user=jatinsharma13eng&theme=dark&hide_border=false" alt="GitHub Streak" width="400"
-    height=""
+  <!-- <a href=" /">
+    <img
+      alt=" Jatin  Sharma"
+      src="./assets/banner.jpg"
+      width="100%"
     />
+  </a> -->
+<br/>
+
+[![Visits Badge](https://komarev.com/ghpvc/?username=jatinsharma13eng&label=Profile%20views&color=red&style=for-the-badge)]( )
+<a href="https://www.instagram.com/jatin._vats/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Instagram/instagram2.svg" alt=" Jatin  Sharma | Instagram" ></img></a>
+<a href="https://www.linkedin.com/in/jatin-sharma-92418a291/" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin2.svg" alt=" Jatin  Sharma | Linkedin" /></a>
+<a href="https://github.com/jatinsharma13eng" target="_blank"><img align="right" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github2.svg" alt=" Jatin  Sharma | GitHub" /></a>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<a href=" /" target="_blank"><img align='right' src='https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWI0NWF6MGE2ZzJxbWplcDczOWZpODhjNXNxNnVpdTg2eTByMWp4NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RgutegYIHk2Nhxj4m5/giphy.gif' width='250'></a>
+
+<h3>A Full Stack Engineer</h3>
+
+- 🌱 I'm currently learning **MERN stack**
+
+- 👨‍💻 My projects are available at []( /projects)
+
+- 📝 I write blogs on []( /blog)
+
+- 📫 How to reach me **<>**
+
+<br/>
+
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> &ensp; <b> Things I code with</b>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<p align="left">
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,ts,react,nextjs,tailwind,framer,figma,reactrouter,markdown,nodejs,expressjs,redis,postgresql,zustand,pnpm,git,github,docker,aws,bash,python,c,java,rust,azure,mysql,linux,android,gitlab,blender,canva,gimp,mui,storybook,go,gcp,graphql,npm,firebase&theme=dark&titles=true)]( )
+
+</p>
+📊<b> Weekly development breakdown</b>
+
+```txt
+Total Time: 41 hrs 2 mins
+
+JavaScript   36 hrs 1 min    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.80 %
+React        1 hr 46 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.26 %
+Java         1 hr 28 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.54 %
+Other        28 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.14 %
+CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.85 %
+```
+
+<details>
+  <summary>
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width ="25"> &ensp;
+    <b>Stats Overview</b>
+
+  </summary>
+
+   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+  <div align="center">
+    <span>
+      <a href=" ">
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=jatinsharma13eng&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+      </a>
+    </span>
+    <span>
+      <a href=" ">
+        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=jatinsharma13eng&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      </a>
+    </span>
+    <span>
+      <a href=" ">
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=jatinsharma13eng&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+      </a>
+    </span>
   </div>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinsharma13eng&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" width="60%"/>
-</div>
+</details>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<br/>
