@@ -1,6 +1,6 @@
 <p align="left">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px" style="margin-right: 10px;" />
-</br></br>
+ &nbsp;&nbsp;
   <a href="#">
     <img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=false&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Jatin+Sharma" alt="Hey there 🙋‍♂️, I'm Jatin Sharma" />
   </a>
