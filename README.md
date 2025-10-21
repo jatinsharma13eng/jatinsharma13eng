@@ -27,11 +27,11 @@
 
 - 🌱 I'm currently learning **MERN stack**
 
-- 👨‍💻 My projects are available at []( /projects)
+- 👨‍💻 Experienced full stack developer 
 
-- 📝 I write blogs on []( /blog)
+- 📝 Love to research and experiment
 
-- 📫 How to reach me **<>**
+- 📫 Reach me at **jatinsharma13eng@gmail.com**
 
 <br/>
 
